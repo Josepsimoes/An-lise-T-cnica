@@ -1,2 +1,2 @@
-# An-lise-T-cnica
+# Analise_Tecnica
 Indicadores e Gráficos - Análise Técnica
